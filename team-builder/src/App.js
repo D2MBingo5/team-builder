@@ -3,6 +3,8 @@ import React, { useState } from 'react'
 import Member from './Member'
 import Form from './Form'
 
+// Gonna be honest, this is pretty much a carbon copy of what we did today in class. What can I say? It works well!
+
 const initialFormValues = {
   name: '',
   email: '',
